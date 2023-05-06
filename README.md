@@ -8,8 +8,8 @@ Quero me desenvolver profissionalmente e contribuir para o sucesso da empresa.
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-0138b9152/)
 
 [![Luiz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Famuit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Famuit/github-readme-stats#gh-dark-mode-only)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Famuit&hide_progress=true)](https://github.com/Famuit/github-readme-stats)
+
 
 ## Tecnologias que uso no meu dia.
 
